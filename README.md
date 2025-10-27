@@ -16,7 +16,7 @@ There is a [bootcamp](https://academany.fabcloud.io/fabacademy/2026/bootcamp-ins
 ### For who
 
 - Contributors and fans of the Fabricatable Machines research project
-- Participants at the [2026 Intructors bootcamp](https://academany.fabcloud.io/fabacademy/2026/bootcamp-instructors/) at Fab Lab Lyngen
+- Participants at the [2026 Fab Academy Instructors bootcamp](https://academany.fabcloud.io/fabacademy/2026/bootcamp-instructors/) at Fab Lab Lyngen
 
 ### The program *(WIP)*
 
