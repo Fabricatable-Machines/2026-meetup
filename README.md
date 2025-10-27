@@ -10,7 +10,7 @@ A meetup for the Fab 2.0 and Fabricatable Machines research community. Tours of 
 There is a [bootcamp](https://academany.fabcloud.io/fabacademy/2026/bootcamp-instructors/) for the instructors of the Fab Academy program at Fab Lab Lyngen from January 12-16th. Professor Neil Gershenfeld, an instrumental founder of the Fab Lab network and the [Fab 2.0](https://machines.fabcloud.io/) inititative, wants to visit our Fabricatable machines research community in Oslo on his way back to the MIT. This a a great opportunity for us to to meet in person, do some hands on work together and plan future projects.
 
 ![](/img/fabricatable-machines-second-gen-family-tree.jpg)
-*A family tree showing three geneartions of Fabricabtle machines making Fabriactable machines*
+*A family tree showing three generations of Fabricatable machines making Fabricatable machines at Fellesverkstedet*
 
 
 ### For who
@@ -30,8 +30,8 @@ There is a [bootcamp](https://academany.fabcloud.io/fabacademy/2026/bootcamp-ins
 
 
 **Monday, Janauary 19th**
-- continuation / wrap up of the workshop at bitraf
-- or a roadtrip to visit Fabricatable Machines in use different at various fabriaction spaces around Oslo
+- Continuation / wrap up of the workshop at bitraf
+- Or a roadtrip to visit Fabricatable machines in use different at various fabriaction spaces around Oslo
 
 Suggestions of improvements to the program is most welcome. You can either leave comment on the [issues page](https://github.com/Fabricatable-Machines/2026-meetup/issues) of this repo or submit a pull request.
 
