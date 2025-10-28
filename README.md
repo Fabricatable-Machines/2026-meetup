@@ -21,12 +21,12 @@ There is a [bootcamp](https://academany.fabcloud.io/fabacademy/2026/bootcamp-ins
 ### The program *(WIP)*
 
 **Sunday, Janaury 18th**
-- 10.00-11.00: A tour of Fellesverkstedet, one of the worlds most comprehensive independent Fab Labs
-- 11.00-11.15: A short walk to bitraf, an independent makerspace in Oslo
-- 11.30-12.30: A tour of bitraf and a demo of the latest Fabricatable Machines project
-- 12:30-13.30: Lunch
-- 13:30-18.00: A collaborative workshop on Fab 2.0, or continuation of projects started at the Fab Lab Lyngen bootcamp. Hosted at bitraf.
-- 18:00-20.00: Dinner and hangout at bitraf
+- **10.00-11.00:** A tour of Fellesverkstedet, one of the worlds most comprehensive independent Fab Labs, with general manager Graham Hayward.
+- **11.00-11.15:** A short walk to bitraf, an independent makerspace in Oslo.
+- **11.30-12.30:** A tour of bitraf and a demo of the latest Fabricatable Machines project, with Jens Dyvik.
+- **12:30-13.30:** Lunch.
+- **13:30-18.00:** A collaborative workshop on Fab 2.0, or continuation of projects started at the Fab Lab Lyngen bootcamp. Hosted at bitraf.
+- **18:00-20.00:** Dinner and hangout at bitraf.
 
 
 **Monday, Janauary 19th**
